@@ -1,4 +1,4 @@
-[![MasterHead](https://miro.medium.com/max/1400/1*rB-3Q2k7o9qk8IyAzx-TRA.gif)](https://rishavchanda.io)
+[![MasterHead](https://miro.medium.com/max/1400/1*rB-3Q2k7o9qk8IyAzx-TRA.gif)](https://vinyashegde.github.io)
 <h1 align="center">Hi 👋, I'm Vinyas Hegde</h1>
 <h3 align="center">An Indie GameDev and a Programmer</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/f6/6c/6b/f66c6b5196ecaa71907ae9d17bf26f57.gif">
