@@ -1,6 +1,6 @@
 [![MasterHead](https://miro.medium.com/max/1400/1*rB-3Q2k7o9qk8IyAzx-TRA.gif)](https://vinyashegde.github.io)
 <h1 align="center">Hi 👋, I'm Vinyas Hegde</h1>
-<h3 align="center">An Indie GameDev and a Programmer</h3>
+<h3 align="center">An Indie GameDev,Modder and a Programmer</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/f6/6c/6b/f66c6b5196ecaa71907ae9d17bf26f57.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinyashegde&label=Profile%20views&color=0e75b6&style=flat" alt="vinyashegde" /> </p>
@@ -9,13 +9,15 @@
 
 - 🔭 I’m currently working on [Roll the Rooms Game](https://github.com/vinyashegde/Rolll-the-Dice-Gamejam)
 
-- 🌱 I’m currently learning **java,ui/ux,3d modelling**
+- 🌱 I’m currently learning **Java,UI/UX,3D Modelling**
 
-- 👨‍💻 All of my projects are available at [Respoitories](https://github.com/vinyashegde?tab=repositories)
+- 🤗 Made some chrome extensions/addons [**Shorto Url Shorter**](https://microsoftedge.microsoft.com/addons/detail/shorto-url-shorter/fblkkccdkgkcmjpbpldapdfelpflpkgp)
+
+- 👨‍💻 All of my projects are available at [Repositories](https://github.com/vinyashegde?tab=repositories)
 
 - 📝 My website [https://vinyashegde.github.io/](https://vinyashegde.github.io/)
 
-- 💬 Ask me about **C#,C,C++,HTML,CSS,Javascript,Python**
+- 💬 Ask me about **C#,C,C++,HTML,CSS,Javascript**
 
 - 📫 How to reach me **vinyasvasanthegde7@gmail.com**
 
