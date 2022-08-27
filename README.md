@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **java,ui/ux,3d modelling**
 
-- 👨‍💻 All of my projects are available at [https://github.com/vinyashegde?tab=repositories](https://github.com/vinyashegde?tab=repositories)
+- 👨‍💻 All of my projects are available at [Respoitories](https://github.com/vinyashegde?tab=repositories)
 
 - 📝 My website [https://vinyashegde.github.io/](https://vinyashegde.github.io/)
 
