@@ -5,7 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinyashegde&label=Profile%20views&color=0e75b6&style=flat" alt="vinyashegde" /> </p>
 
-<p align="left"> <a href="https://twitter.com/vinyasvasant" target="blank"><img src="https://img.shields.io/twitter/follow/vinyasvasant?logo=twitter&style=for-the-badge" alt="vinyasvasant" /></a> </p>
 
 - 🔭 I’m currently working on [Roll the Rooms Game](https://github.com/vinyashegde/Rolll-the-Dice-Gamejam)
 
