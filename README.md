@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Java,UI/UX,3D Modelling**
 
-- 🤗 Made some chrome extensions/addons [**Shorto Url Shorter**](https://microsoftedge.microsoft.com/addons/detail/shorto-url-shorter/fblkkccdkgkcmjpbpldapdfelpflpkgp)
+- 🤗 Made some chrome extensions/addons [**Shorto Url Shorter**](https://chrome.google.com/webstore/detail/shorto-url-shorter/ggjlafhmjnmepkkihggbbgiignajkjcl?hl=en-GB&authuser=0)
 
 - 👨‍💻 All of my projects are available at [Repositories](https://github.com/vinyashegde?tab=repositories)
 
