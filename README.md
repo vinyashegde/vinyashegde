@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [Roll the Rooms Game](https://github.com/vinyashegde/Rolll-the-Dice-Gamejam) and [Interlace CSS library](https://github.com/vinyashegde/interlace)
 
-- 🌱 I’m currently learning **Java,UI/UX,3D Modelling**
+- 🌱 Learning about new Tech Everyday!!
 
 - 🤗 Made some chrome extensions/addons [**Shorto Url Shorter**](https://chrome.google.com/webstore/detail/shorto-url-shorter/ggjlafhmjnmepkkihggbbgiignajkjcl?hl=en-GB&authuser=0)
 
