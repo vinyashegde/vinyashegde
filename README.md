@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinyashegde&label=Profile%20views&color=0e75b6&style=flat" alt="vinyashegde" /> </p>
 
 
-- 🔭 I’m currently working on [Roll the Rooms Game](https://github.com/vinyashegde/Rolll-the-Dice-Gamejam) and [Interlace CSS library](https://github.com/vinyashegde/interlace)
+- 🔭 I’m currently working on [Roll the Rooms Game](https://github.com/vinyashegde/Rolll-the-Dice-Gamejam) and [BackDrop - Text Behind Image](https://github.com/vinyashegde/backdrop-text-behind-image)
 
 - 🌱 Learning about new Tech Everyday!!
 
