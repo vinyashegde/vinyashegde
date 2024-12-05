@@ -18,7 +18,7 @@
 
 - 💬 Ask me about **C#,C,C++,HTML,CSS,Javascript**
 
-- 📫 How to reach me **vinyasvasanthegde7@gmail.com**
+- 📫 How to reach me **vinyashegdee@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
