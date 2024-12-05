@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [Repositories](https://github.com/vinyashegde?tab=repositories)
 
-- 📝 My website [https://vinyashegde.netlify.app/](https://vinyashegde.netlify.app/)
+- 📝 My website [vinyas.netlify.app/](https://vinyas.netlify.app/)
 
 - 💬 Ask me about **C#,C,C++,HTML,CSS,Javascript**
 
