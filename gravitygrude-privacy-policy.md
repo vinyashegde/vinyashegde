@@ -34,4 +34,4 @@ We may update our Privacy Policy from time to time. You are advised to review th
 
 ## 6. Contact Us
 If you have any questions about this Privacy Policy, please contact us at:
-*   Email: [YOUR_SUPPORT_EMAIL@GMAIL.COM]
+*   Email: [vinyashegdee@gmail.com]
